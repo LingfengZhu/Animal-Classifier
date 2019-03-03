@@ -2,6 +2,10 @@
 This is an animal detection and classification project. Developed by Zhangjie Lyu, Chen Xing and me.
 
 ## Guideline
+- Read the project report by "Fantastic_Beasts_and_Where_to_Find_Them_final_ver2.pdf"
+
+- Read the project proposal by "ProjectProposal_ver2.pdf"
+
 - Read general framework and the details of KNN by "modified_knn_five_species_ver1.ipynb".
 
   @author: Zhangjie Lyu, zlyu25@wisc.edu
@@ -22,12 +26,19 @@ This is an animal detection and classification project. Developed by Zhangjie Ly
 
 ## Data
 
-Raw data images are in the "selected_data" zip file
+We choose Caltech 101 dataset to implement the program
 
-Augmented data images are in the "augmented_data" zip file
+- Raw data images are in the "selected_data" zip file
+
+- Augmented data images are in the "augmented_data" zip file
+
+Data homepage:
+
+http://www.vision.caltech.edu/Image_Datasets/Caltech101/
 
 ## Acknowledgement
 Prof. Raschka's instruction, UW-Madison
+
 STAT 479, UW-Madison
 
 ## Course Homepage
