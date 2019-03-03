@@ -16,7 +16,7 @@ This is an animal detection and classification project. Developed by Zhangjie Ly
 
 - Read SVM in the first experiment by "modified_svm.ipynb"
 
-  @author: Lingfeng  Zhu,lzhu88@wisc.edu
+  @author: Lingfeng  Zhu, lzhu88@wisc.edu
 
 - Read random forest in the first experiment by "random forest_species.ipynb"
 
